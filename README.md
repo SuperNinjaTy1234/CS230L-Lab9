@@ -1,3 +1,6 @@
+PLEASE NOTE:
+The code for the frontend of the program is everything outside of the backend folder. The frontend folder won't open and it would not allow me to add another folder!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
